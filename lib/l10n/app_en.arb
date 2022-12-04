@@ -1,0 +1,15 @@
+{
+    "appName": "Hello World!",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "emailHint": "E-mail",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "signUp": "Sign Up",
+     "login": "Log in",
+     "emptyTextField": "Please enter some text",
+    "correctValue" :"Enter a correct value ",
+    "createaccount" :"create a new  account",
+    "haveAnccount" : "already have an account?",
+    "fontStyle":"Merienda"
+}

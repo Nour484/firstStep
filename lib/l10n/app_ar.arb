@@ -1,0 +1,17 @@
+{
+    "appName": "Hello World!",
+    "firstName": "أسمك",
+    "lastName": "أسم العائلة",
+    "emailHint": "البريد الألكتروني",
+    "password": "كلمة المرور",
+    "confirmPassword": "تأكيد كلمة المرور",
+    "signUp": "تسجيل الدخول",
+    "login": "تسجيل الدخول",
+    "emptyTextField": "من فضلك ادخل بياناتك",
+    "correctValue" : "من فضلك ادخل بيانات صحيحة" ,
+    "createaccount" :"إنشاء حساب جديد",
+    "haveAnccount" : "بالفعل لديك حساب ؟",
+    "fontStyle": "Amiri"
+
+
+}
